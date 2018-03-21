@@ -1,7 +1,7 @@
 # MEMEBOT
 
 ## What is Memebot?
-Check out our blog post (published soon) for an explanation of why and how Memebot came about.
+Check out our [blog post](https://www.ghyston.com/the-thinking/automating-humour-on-slack-with-memebot/) for an explanation of why and how Memebot came about.
 
 Memebot is a [Slack](https://slack.com/) bot for automatically generating memes in Slack conversations. You can build up a collection of different images with which to create memes from.
 
